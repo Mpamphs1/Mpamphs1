@@ -1,4 +1,4 @@
-<h1 align="center">Γεια 👋, είμαι οι Χαράλαμπος</h1>
+<h1 align="center">Γεια 👋, είμαι ο Χαράλαμπος</h1>
 <h3 align="center">Νέος Προγραμματιστής με διάφορα πρότζεκτ</h3>
 
 - 🌱 I’m currently learning **PHP,Lua,LOVE2D**
